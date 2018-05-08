@@ -1,0 +1,14 @@
+{
+  "python.pythonPath": "${workspaceFolder}\\venv\\Scripts\\python.exe",
+  "cSpell.words": [
+    "decltypes",
+    "flaskr",
+    "parse",
+    "pyfile",
+    "sqlite",
+    "werkzeug"
+  ],
+  "editor.tabSize": 4,
+  "python.linting.pylintEnabled": false,
+  "git.ignoreLimitWarning": true
+}
